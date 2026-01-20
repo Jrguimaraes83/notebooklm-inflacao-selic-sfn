@@ -39,3 +39,5 @@ No notebook constam:
 ## 6. Reutilização
 Os prompts e a estrutura deste projeto podem ser reutilizados
 para outros temas econômicos ou financeiros introdutórios.
+
+
